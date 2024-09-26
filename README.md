@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal-imran09" alt="daniyal-imran09" /></a> </p>
 
-- 🔭 I’m currently working on **Backend applications(Go language)**
+- 🔭 I’m currently working on **MERN and Next.js Applications**
 
 - 🌱 I’m currently learning **Rust,Go,Generative Ai Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniyal-Imran09](https://github.com/Daniyal-Imran09)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react and Node**
 
 - 📫 How to reach me **daniyalimran602@gmail.com**
 
