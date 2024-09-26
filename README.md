@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN and Next.js Applications**
 
-- 🌱 I’m currently learning **Rust,Go,Generative Ai Course**
+- 🌱 I’m currently learning **Rust,Go,Generative Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniyal-Imran09](https://github.com/Daniyal-Imran09)
 
