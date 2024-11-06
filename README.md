@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniyal Imran</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal-imran09" alt="daniyal-imran09" /></a> </p>
 
 - 🔭 I’m currently working on **MERN and Next.js Applications**
 
-- 🌱 I’m currently learning **Rust,Go,Generative Ai**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniyal-Imran09](https://github.com/Daniyal-Imran09)
 
-- 💬 Ask me about **react and Node**
+- 💬 Ask me about **React and Node**
 
 - 📫 How to reach me **daniyalimran602@gmail.com**
 
